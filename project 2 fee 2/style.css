@@ -1,0 +1,276 @@
+*{
+    max-width: 100%;
+}
+
+header{
+    font-size: 1.3rem;
+    font-family: "Soehne", system-ui, -apple-system, Helvetica Neue, Arial, sans-serif;
+}
+li a:hover{
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+}
+.main-container{
+    max-width: 100%;
+    max-height: 100%; 
+}
+
+.block2{
+    background-color: black;
+}
+
+.abc{
+    font-size: 3.7rem;
+    color: white;
+    background: transparent;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.abcd{
+    max-width: 100%;
+    width: 100vw;
+}
+.container{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    max-width: 100%;
+    padding: 0.5rem 1rem;
+    background-color: rgba(0, 0, 0, 0);
+    z-index: 1000;
+    width: 100%;
+}
+.text0{
+    position: absolute;
+    top: 58%;
+}
+
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.container2 {
+    display: flex;
+    align-items:normal;
+    background-color: black;
+    color: white;
+    justify-content:space-between;
+    padding: 20px;
+}
+.a{
+    font-size: 33px;
+}
+.c{
+    font-size: 20px;
+    text-decoration: underline;
+}
+.video-container {
+    z-index: -100;
+    min-width:100%;
+    min-height:100%;
+    overflow:hidden;
+    top:0;
+    left:0;
+    right: 0;
+    background-color: black;
+}
+#myVideo{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+.break1{
+    background-color: black;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.break1-1{
+    opacity: 0.8;
+    font-weight: 100;
+}
+
+.update{
+    display: flex;
+    padding-bottom: 50px;
+} 
+
+.view{
+    margin-left: 1050px;
+    text-decoration: underline;
+    color: white;
+    font-family: "Soehne", system-ui, -apple-system, Helvetica Neue, Arial, sans-serif;
+    font-size: 20px;
+}
+
+.images{
+    max-width: 100%;
+}
+.fontchange{
+    font-family:"Lora",sans-serif;
+}
+.card{
+    background-color: black;
+    color: white;
+    border-radius: 0%;
+    padding-right: 10px;
+    padding-left: 10px
+}
+.safe-res{
+    margin-left: 10px;
+    margin-right: 320px;
+    white-space: nowrap;
+    font-family:"Lora",sans-serif;
+}
+
+.learn-ab{
+    font-size: 20px;
+    text-decoration: underline;
+    color: white;
+    font-family: "Soehne", system-ui, -apple-system, Helvetica Neue, Arial, sans-serif;
+}
+
+.we-rese{
+    margin-left: 240px;
+    font-family:"Lora",sans-serif;
+}
+
+.careers{
+    margin-right: 180px;
+    white-space: nowrap;
+    font-family:"Lora",sans-serif;
+}
+
+.break2{
+    background-color: black;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.break2-1{
+    opacity: 0.2;
+}
+
+.encourage{
+    display: flex;
+    padding-bottom: 50px;
+    padding-right: 10px;
+}
+
+.i-encourage{
+    font-family:"Lora",sans-serif;
+    font-size: 3rem;
+    padding-left: 10px;
+}
+
+.enc-sub{
+    padding-left: 15px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.enc-sub-1{
+    padding-left: 15px;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.enc-img{
+    padding-top: 20px;
+}
+
+.join-us{
+    padding-bottom: 70px;
+    font-size: 150px;
+    font-family:"Lora",sans-serif;
+}
+
+.join-u{
+    font-size: 65px;
+}
+
+.career{
+    font-size: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.break3{
+    background-color: black;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.block3{
+    display: block;
+    padding-bottom: 50px;
+    background-color: black;
+    justify-content: center;
+}
+
+.foot-logo{
+    background-color: black;
+    padding-right: 400px;
+    padding-left: 20px;
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.text4{
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+.end-text{
+    font-size: 20px;
+    padding-right: 300px;
+    white-space: nowrap;
+    font-size: 15px;
+}
+
+.blocks{
+    background-color: white;
+    color: black;
+    padding: 1px;
+}
+
+.end-1{
+    display: flex;
+}
+
+.end-text-2{
+    font-weight: 100;
+    font-size: 15px;
+}
+
+.end-text-1{
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+.back{
+    padding-top: 30px;
+}
+
+.asdf{
+    padding: 0px;
+}
